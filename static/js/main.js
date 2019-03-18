@@ -2,7 +2,7 @@ var platformName = null;
 var platform = null;
 var price;
 
-var coinNums = ['1,000', '2,800', '7,500', '13,500'];
+var coinNums = ['1,000', '2,800', '13,500', '75,500'];
 var coinNumsImage = [
   '/static/images/box4.png',
   '/static/images/box1.png',
